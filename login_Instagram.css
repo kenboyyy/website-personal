@@ -1,0 +1,31 @@
+body {
+    background-color:grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+    border-color: black;
+}
+
+body{
+    background-image: url(paris.jpeg);
+}
+
+
+h1{
+    text-align: center;
+}
+.ul-nav{
+    width: auto;
+    height: 100;
+    background-color: white;
+    border-color:white; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .li-nav{
+    list-style-type: none;
+    color:black;
+    padding :30px;
+    text-align: center;
+    
+  }
